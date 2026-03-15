@@ -1,6 +1,6 @@
 # API Tester Web App
 
-![Screenshot](1773548542324.jpg/1773548608657.jpg)
+![Screenshot](1773548542324.jpg)
 
 ---
 
