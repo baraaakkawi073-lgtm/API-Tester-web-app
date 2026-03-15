@@ -1,6 +1,6 @@
 # API Tester Web App
 
-![Screenshot](screenshot.png)
+![Screenshot]()
 
 ---
 
